@@ -128,7 +128,6 @@ hr{
     background-image: url(../Assets/bg.avif);
     background-position: center;
     background-size: cover;
-    background-color: red;
     height: calc(100vh - 60px);
     margin-top: 37px;
 }
